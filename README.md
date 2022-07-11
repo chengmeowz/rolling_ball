@@ -1,6 +1,6 @@
 # rolling_ball
 
-## STAGE ONE COMPLETE
+### STAGE ONE ✅
 
 The following functionality is complete:
 
