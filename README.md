@@ -6,11 +6,22 @@ The following functionality is complete:
 
 - [X] User can control ball to roll to destory coins.
 
+### STAGE TWO ✅
+
+The following functionality is complete:
+
+- [X] User can control ball to roll and the game will end when touched the blocker.
+- [X] User can restart the game.
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
+### Stage One
 <img src='http://g.recordit.co/N7VvIllY5x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Stage Two
+<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
