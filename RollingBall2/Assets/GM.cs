@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GM : MonoBehaviour
 {
@@ -23,11 +24,21 @@ public class GM : MonoBehaviour
     {
         Time.timeScale = 0;
         panel.SetActive(true);
+        Text t = panel.transform.Find("Text").GetComponent<Text>();
+        t.text = "YOU LOSE.";
     }
 
     public void Restart()
     {
         Time.timeScale = 1;
         SceneManager.LoadScene(0);  // 重新加载场景
+    }
+
+    public void Finish()
+    {
+        Time.timeScale = 0;
+        panel.SetActive(true);
+        Text t = panel.transform.Find("Text").GetComponent<Text>();
+        t.text = "YOU WON!!!";
     }
 }

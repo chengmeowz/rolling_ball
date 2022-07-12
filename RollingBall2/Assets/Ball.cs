@@ -6,6 +6,8 @@ public class Ball : MonoBehaviour
 {
     Rigidbody r;
     public float speed = 10;
+    float p = 1.5f;
+    float l = 0;
     
     // Start is called before the first frame update
     void Start()
@@ -17,6 +19,25 @@ public class Ball : MonoBehaviour
     void Update()
     {
         float x = Input.GetAxis("Horizontal");
-        r.velocity = new Vector3(x*8, 0, speed);
+        float z = Input.GetAxis("Vertical");
+        if (z > 0)
+        {
+            speed = 15;
+        }
+        else if (z < 0)
+        {
+            speed = 5;
+        }
+        else
+        {
+            speed = 10;
+        }
+        r.velocity = new Vector3(x*8, r.velocity.y, speed);
+        if (Time.time >= l + p) 
+        {
+            Vector3 f = new Vector3(0, 5, 0);
+            r.AddForce(f, ForceMode.Impulse);
+            l = Time.time;
+        }
     }
 }

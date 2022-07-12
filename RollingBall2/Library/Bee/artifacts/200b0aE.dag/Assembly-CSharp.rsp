@@ -351,6 +351,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Ball.cs"
 "Assets/Box.cs"
+"Assets/Drop.cs"
+"Assets/Finish.cs"
 "Assets/Follow.cs"
 "Assets/GM.cs"
 -langversion:9.0
