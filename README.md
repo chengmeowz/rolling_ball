@@ -17,9 +17,9 @@ The following functionality is complete:
 
 The following functionality is complete:
 
-- [X] User can control ball to roll and the game will end when ball touched the floor.
-- [X] Background music and background are added.
-- [X] Game will end when ball reached the finished line.
+- [X] User can control ball to roll and the game will end when ball reached the finished line.
+- [X] Background music and background view are added.
+- [X] Game will end when ball dropped out of the floor.
 - [X] Ball can jump at a rhythm.
 
 ## Video Walkthrough 
