@@ -1,27 +1,39 @@
 # rolling_ball
 
-### STAGE ONE ✅
+### STAGE ONE ✅ [RollingBall](https://github.com/chengmeowz/rolling_ball/tree/main/RollingBall)
 
 The following functionality is complete:
 
 - [X] User can control ball to roll to destory coins.
 
-### STAGE TWO ✅
+### STAGE TWO ✅ [RollingBall2](https://github.com/chengmeowz/rolling_ball/tree/main/RollingBall2)
 
 The following functionality is complete:
 
-- [X] User can control ball to roll and the game will end when touched the blocker.
+- [X] User can control ball to roll and the game will end when ball touched the blocker.
 - [X] User can restart the game.
+
+### STAGE THREE ✅ [RollingBall2](https://github.com/chengmeowz/rolling_ball/tree/main/RollingBall2)
+
+The following functionality is complete:
+
+- [X] User can control ball to roll and the game will end when ball reached the finished line.
+- [X] Background music and background view are added.
+- [X] Game will end when ball dropped out of the floor.
+- [X] Ball can jump at a rhythm.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 ### Stage One
-<img src='http://g.recordit.co/N7VvIllY5x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/N7VvIllY5x.gif' title='#1 Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Stage Two
-<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='#2 Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Stage Three
+<img src='http://g.recordit.co/3MPYWEyEfP.gif' title='#3 Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
