@@ -27,13 +27,13 @@ The following functionality is complete:
 Here's a walkthrough of implemented user stories:
 
 ### Stage One
-<img src='http://g.recordit.co/N7VvIllY5x.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/N7VvIllY5x.gif' title='#1 Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Stage Two
-<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='#2 Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Stage Three
-<img src='http://g.recordit.co/3MPYWEyEfP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/3MPYWEyEfP.gif' title='#3 Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
