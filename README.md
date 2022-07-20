@@ -22,18 +22,18 @@ The following functionality is complete:
 - [X] Game will end when ball dropped out of the floor.
 - [X] Ball can jump at a rhythm.
 
-## Video Walkthrough 
+## GIF Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 ### Stage One
-<img src='http://g.recordit.co/N7VvIllY5x.gif' title='#1 Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/chengmeowz/rolling_ball/blob/main/gif_walkthrough/stage1.gif' title='#1 GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ### Stage Two
-<img src='http://g.recordit.co/h7xwEp5tnT.gif' title='#2 Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/chengmeowz/rolling_ball/blob/main/gif_walkthrough/stage2.gif' title='#2 GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 ### Stage Three
-<img src='http://g.recordit.co/3MPYWEyEfP.gif' title='#3 Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/chengmeowz/rolling_ball/blob/main/gif_walkthrough/stage3.gif' title='#3 GIF Walkthrough' width='' alt='GIF Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
