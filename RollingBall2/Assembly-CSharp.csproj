@@ -37,10 +37,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Box.cs" />
+     <Compile Include="Assets/Finish.cs" />
      <Compile Include="Assets/GM.cs" />
      <Compile Include="Assets/Follow.cs" />
      <Compile Include="Assets/Ball.cs" />
-     <Compile Include="Assets/Finish.cs" />
      <Compile Include="Assets/Drop.cs" />
      <None Include="Assets/DeepSpaceSkyboxPack/DiverseSpace/Diverse Space Skybox Readme.txt" />
     <Reference Include="UnityEngine">
