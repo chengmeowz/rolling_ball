@@ -10,8 +10,17 @@ The following functionality is complete:
 
 The following functionality is complete:
 
-- [X] User can control ball to roll and the game will end when touched the blocker.
+- [X] User can control ball to roll and the game will end when ball touched the blocker.
 - [X] User can restart the game.
+
+### STAGE THREE ✅
+
+The following functionality is complete:
+
+- [X] User can control ball to roll and the game will end when ball touched the floor.
+- [X] Background music and background are added.
+- [X] Game will end when ball reached the finished line.
+- [X] Ball can jump at a rhythm.
 
 ## Video Walkthrough 
 
@@ -22,6 +31,9 @@ Here's a walkthrough of implemented user stories:
 
 ### Stage Two
 <img src='http://g.recordit.co/h7xwEp5tnT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### Stage Three
+<img src='http://g.recordit.co/3MPYWEyEfP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
